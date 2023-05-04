@@ -1,0 +1,43 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-58097060
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\Source\AT24C04.c}.152.5" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\Source\Accelerometer.c}.443.5" 1 0 0 0 "" 0 ""
+Count=2
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_clk.c" ""
+A1=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_dma.c" ""
+A2=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_gpio.c" ""
+A3=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_it.c" ""
+A4=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_spi.c" ""
+A5=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_tim1.c" ""
+A6=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\STM8L Library\Source\stm8l15x_usart.c" ""
+A7=_ "D:\My Project\Sama Paint Ball\Laser Tag\Laser Tag Main\uSource\Ver 2.1 debug RF module data receive\Source\systemTick.c" ""
+Count=8
+SuppressDialog=0
