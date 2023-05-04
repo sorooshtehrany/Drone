@@ -276,7 +276,7 @@ typedef struct RTC_struct
 
   uint8_t RESERVED0;
 
-  __IO uint8_t DR1; /*!<  Date  Register  1*/
+  __IO uint8_t DR1; /*!<   Date  Register  1*/
   __IO uint8_t DR2; /*!<  Date  Register  2*/
   __IO uint8_t DR3; /*!<  Date  Register  3*/
 
